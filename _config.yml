@@ -24,7 +24,7 @@ url: "https://oslodayiz.com"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "G-X06EZSFYNJ"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -47,7 +47,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Oslodayiz.com | All rights reserved. 2023."
+  content: "&copy; Oslodayiz.com | Tüm hakları saklıdır. 2023."
   has_social: true
 
 # Plugins
